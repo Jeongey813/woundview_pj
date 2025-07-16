@@ -57,3 +57,8 @@ node_modules/
 .env
 node_modules/
 .env
+
+echo "service-account-kye2.json" 
+
+node_modules/
+.env
