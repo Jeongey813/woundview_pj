@@ -1,0 +1,98 @@
+/* Fonts */
+export const FontFamily = {
+  interLight: "Inter-Light",
+  interBold: "Inter-Bold",
+  interExtraBold: "Inter-ExtraBold",
+  interRegular: "Inter-Regular",
+  interSemiBold: "Inter-SemiBold",
+  interMedium: "Inter-Medium",
+};
+/* Font sizes */
+export const FontSize = {
+  size_10: 10,
+  size_11: 11,
+  size_12: 12,
+  size_14: 14,
+  size_15: 15,
+  size_16: 16,
+  size_18: 18,
+  size_20: 20,
+  size_22: 22,
+  size_30: 30,
+  size_32: 32,
+};
+/* Colors */
+export const Color = {
+  colorDimgray: "#686868",
+  colorDarkgray: "#979797",
+  colorLightgray: "#d3d3d3",
+  colorLightcoral: "#f88585",
+  colorWhitesmoke300: "rgba(233, 233, 233, 0.88)",
+  colorWhitesmoke200: "#e9e9e9",
+  colorWhitesmoke100: "#f7f7f7",
+  colorHoneydew: "#d5efe4",
+  colorPaleturquoise: "#9fcfbb",
+  colorTomato: "#fa3d3b",
+  colorGainsboro200: "#e0e0e0",
+  colorGainsboro100: "#e2e2e2",
+  colorDarkslategray300: "#2f2f2f",
+  colorDarkslategray200: "#373737",
+  colorDarkslategray100: "#474747",
+  colorMintcream200: "#f0faf7",
+  colorMintcream100: "#eefbf8",
+  colorMediumseagreen200: "rgba(0, 176, 129, 0)",
+  colorMediumseagreen100: "#00b081",
+  colorGray600: "rgba(255, 255, 255, 0)",
+  colorGray500: "rgba(0, 0, 0, 0.25)",
+  colorGray400: "rgba(0, 0, 0, 0.05)",
+  colorGray300: "#2c2c2c",
+  colorGray200: "#848484",
+  colorGray100: "#888",
+  colorSilver300: "#bababa",
+  colorSilver200: "#bcbcbc",
+  colorSilver100: "#c5c5c5",
+  colorBlack: "#000",
+  aIColorsAiBrandColor: "#7b2cbf",
+  textMainMessage: "#444",
+  bgBadgesSmall: "#f3f5f6",
+  bgFooter: "#fff",
+  text1: "#444",
+};
+/* Gaps */
+export const Gap = {
+  gap_1: 1,
+  gap_2: 2,
+  gap_3: 3,
+  gap_4: 4,
+  gap_6: 6,
+  gap_10: 10,
+  gap_11: 11,
+  gap_12: 12,
+  gap_14: 14,
+  gap_15: 15,
+  gap_16: 16,
+  gap_18: 18,
+  gap_28: 28,
+  gap_30: 30,
+  gap_32: 32,
+};
+/* Paddings */
+export const Padding = {
+  p_5: 5,
+  p_8: 8,
+  p_10: 10,
+  p_12: 12,
+  p_14: 14,
+  p_15: 15,
+  p_16: 16,
+  p_19: 19,
+  p_20: 20,
+  p_22: 22,
+  p_36: 36,
+};
+/* border radiuses */
+export const Border = {
+  br_5: 5,
+  br_8: 8,
+  br_10: 10,
+};
